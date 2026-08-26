@@ -1,1 +1,1 @@
-El APK del Laboratorio 4 está dentro de la carpeta "Lab4"
+Los APKs de cada laboratorio están dentro de la carpeta :)
